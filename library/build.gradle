@@ -1,7 +1,7 @@
 apply plugin: 'com.android.library'
 apply plugin: 'maven-publish'
 
-def tailorGroupId = 'com.github.bytedance_ljp'
+def tailorGroupId = 'com.github.ljphawk'
 def tailorArtifactId = 'tailor'
 def tailorVersion = '1.1.7'
 

@@ -22,7 +22,7 @@ allprojects {
 Step 2: Add the dependency
 ```gradle
 dependencies {
-    implementation 'com.github.bytedance_ljp:tailor:1.1.7'
+    implementation 'com.github.ljphawk:tailor:1.1.7'
 }
 ```
 
